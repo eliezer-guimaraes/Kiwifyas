@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+sitemap: https://programasecandoemcasa.online/sitemap242.xml
+sitemap: https://programasecandoemcasa.online/sitemap797.xml
+sitemap: https://programasecandoemcasa.online/sitemap84.xml
+sitemap: https://programasecandoemcasa.online/sitemap721.xml
+sitemap: https://programasecandoemcasa.online/sitemap307.xml
